@@ -1,6 +1,11 @@
 #
 src/workshop/data/*.parquet
 src/workshop/data/*.joblib
+*.amlignore
+*.amlignore.*
+*.amltmp
+*.amltemp
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
